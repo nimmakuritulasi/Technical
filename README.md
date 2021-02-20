@@ -30,6 +30,7 @@ Technical
 <img src="https://miro.medium.com/max/640/1*75jvBleoQfAZJc3sgTSPQA.jpeg" height="110" width="100"/>
 
 **To insert a table**
+
 |Name|Branch|Rollno|
 |-----|-----|------|
 |Tulasi|cse|515|
