@@ -29,14 +29,14 @@ Technical
 ![github](https://miro.medium.com/max/640/1*75jvBleoQfAZJc3sgTSPQA.jpeg)
 <img src="https://miro.medium.com/max/640/1*75jvBleoQfAZJc3sgTSPQA.jpeg" height="110" width="100"/>
 
-**To insert a table**
+**To insert a tables**
 
-|Name|Branch|Rollno|
-|-----|-----|------|
-|Tulasi|cse|515|
-|Vennela|cse|513|
-|Harika|cse|516|
-|Chihnitha|cse|517|
+Name|Branch|Rollno
+-----|-----|------
+Tulasi|cse|515
+Vennela|cse|513
+Harika|cse|516
+Chihnitha|cse|517
 
 **insert emoji**
 
